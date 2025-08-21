@@ -1,0 +1,1 @@
+// 100000 will be the output
